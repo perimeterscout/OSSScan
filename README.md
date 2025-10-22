@@ -247,9 +247,6 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 MIT License - see LICENSE file for details
 
-## Security
-
-If you discover a security vulnerability in OSS Risk Scanner, please email security@example.com or open a security advisory on GitHub.
 
 ## Disclaimer
 
